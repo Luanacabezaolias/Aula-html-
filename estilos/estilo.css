@@ -1,0 +1,25 @@
+html{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(9, 60, 83);
+}
+
+P, center{
+    color: rgb(126, 159, 219)
+}
+ 
+ul{
+    color: rgb(126, 159, 219)
+}
+
+h1{
+    font-size: 30px;
+    color: rgb(126, 159, 219)
+}
+
+p, li{ 
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 1px;
+    border: 2px;
+}
