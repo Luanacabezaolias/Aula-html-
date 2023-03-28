@@ -4,7 +4,7 @@ html{
     background-color: rgb(12, 33, 71);
 }
 
-P, center{
+ center{
     color: rgb(126, 159, 219)
 }
  
@@ -17,7 +17,8 @@ h1{
     color: rgb(126, 159, 219)
 }
 
-p, li{ 
+ li{ 
+    color: rgb(126, 159, 219)
     font-size: 18px;
     line-height: 2;
     letter-spacing: 1px;
@@ -36,3 +37,25 @@ img{
     width: 600px;
 
 }
+
+ol{
+    color: rgb(126, 159, 219)
+}
+
+#item2{
+    color: rgb(228, 97, 206)
+}
+
+nav ul {
+    padding: 10px;
+    list-style-type: none;
+    flex: 1;
+    display: flex;
+}
+
+nav li{
+    display: inline;
+    text-align: center;
+    
+}
+
