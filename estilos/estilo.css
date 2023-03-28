@@ -1,7 +1,7 @@
 html{
     font-size: 16px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(9, 60, 83);
+    background-color: rgb(12, 33, 71);
 }
 
 P, center{
@@ -22,4 +22,17 @@ p, li{
     line-height: 2;
     letter-spacing: 1px;
     border: 2px;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(12, 33, 71);
+    border: 10px solid rgb(13, 20, 77) ;
+
+}
+
+img{
+    width: 600px;
+
 }
